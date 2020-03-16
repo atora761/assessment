@@ -22,7 +22,7 @@ const answers=[/*constは定数宣言*/
   '{userName}のいいところはそのすべてです。ありのままの{userName}自身がいいところなのです。',
   '{userName}のいいところは自制心です。やばいと思ったときにしっかりと衝動を抑えられる{userName}が皆から評価されています。'
   '{userName}のいいところは優しさです。{userName}の優しい雰囲気や立ち振る舞いに多くの人が癒やされています。'
-]; 
+];
 //main処理
 /*診断するボタンを押された後の処理*/
 assessmentButton.onclick = ()=>{/*assessmentButton.onclickに関数設定*/
